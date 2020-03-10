@@ -1,2 +1,2 @@
-# HTML5-Banner-for-website-kufar.by
-HTML5 Banner for website KUFAR.BY. AdFox and Google Web Designer.
+# HTML5-Banners-for-website-kufar.by
+HTML5 Banners for website KUFAR.BY. AdFox and Google Web Designer.
